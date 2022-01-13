@@ -100,4 +100,4 @@ def search():
 
 if __name__ == "__main__":
 
-    app.run(host="10.15.0.0/16")
+    app.run(host='0.0.0.0')
